@@ -23,7 +23,7 @@ This project establishes a robust 3-tier data pipeline designed to transform raw
 
 ## 📊 Dashboard Visuals
 *Look at the layout placeholders inside the repository to attach your live dashboard screenshots:*
-* **Top KPI Panel:** Total Active Outlets (42K), Average Rating (3.70/5.00), Digital Ordering Adoption Rate.
+* **Top KPI Panel:** Total Active Outlets, Average Rating (3.70/5.00), Digital Ordering Adoption Rate.
 * **Analytics Canvas:** Regional Matrix Heatmaps, Operational Format Distribution, and Budget Segment Ribbon Charts.
 
 ## ⚙️ How to Setup & Run
