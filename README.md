@@ -22,7 +22,7 @@ This project establishes a robust 3-tier data pipeline designed to transform raw
 * **Hidden Gems Identification:** Deployed algorithmic categorization to automatically isolate low-visibility, high-performing outlets ready for digital scaling.
 
 ## 📊 Dashboard Visuals
-*Look at the layout placeholders inside the repository to attach your live dashboard screenshots:*
+
 * **Top KPI Panel:** Total Active Outlets, Average Rating (3.70/5.00), Digital Ordering Adoption Rate.
 * **Analytics Canvas:** Regional Matrix Heatmaps, Operational Format Distribution, and Budget Segment Ribbon Charts.
 
